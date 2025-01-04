@@ -1,6 +1,7 @@
 *.exe
 *.bin
 *.app
+.idea
 hashcat
 hashcat.exe
 libhashcat.so.*
